@@ -17,3 +17,6 @@ https://monosnap.com/file/Un5WKMID9Xav0xZ0c4GCfdILQuiVAl
 # Видаляємо контакт
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 https://monosnap.com/file/boorzjW4iWJIymTjflpqoJekXNdFRc
+
+# Посилання на скріншоти
+https://monosnap.com/list/64873c26b70ab735483788dc
