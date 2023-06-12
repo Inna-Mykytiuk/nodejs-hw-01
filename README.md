@@ -19,4 +19,4 @@ node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 https://monosnap.com/file/boorzjW4iWJIymTjflpqoJekXNdFRc
 
 # Посилання на скріншоти
-https://monosnap.com/list/64873c26b70ab735483788dc
+https://monosnap.com/file/ySArxWV838oxi13IsnQjEXkOTBMO7o
