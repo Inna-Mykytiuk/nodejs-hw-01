@@ -1,11 +1,5 @@
 const { listContacts, getContactById, removeContact, addContact } = require('./contacts');
 
-// Приклад виклику функцій
-// listContacts(); 
-// getContactById(1); 
-// removeContact(2); 
-// addContact('John Doe', 'johndoe@example.com', '123456789');
-
 const { Command } = require("commander");
 const program = new Command();
 program
